@@ -1,2 +1,2 @@
 # Design_of_gesture_recognition_interaction_system_based_on_vision
-这里保持我的本科毕业论文
+这里保存我的本科毕业论文
