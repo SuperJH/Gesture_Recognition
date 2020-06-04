@@ -1,4 +1,4 @@
-# Design of gesture recognition interaction system based on vision
+# 基于视觉的手势识别交互系统
 这里保存我的本科毕业论文
 
 ### 1 系统效果展示
