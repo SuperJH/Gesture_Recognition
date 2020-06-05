@@ -6,7 +6,7 @@
 本系统能完成绘画、娱乐等图像界面控制功能。
 
 本系统能完成绘画、娱乐等图像界面控制功能。
-
+![image](https://github.com/SuperJH/Gesture_Recognition/blob/master/IMG/001%E6%89%8B%E5%8A%BF%E7%BB%98%E5%9B%BE_%E7%94%BB%E4%BA%94%E8%A7%92%E6%98%9F.gif)
 ### 2 系统整体展示
 
 ### 3 细节说明
